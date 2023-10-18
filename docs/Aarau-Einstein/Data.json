@@ -1,0 +1,25 @@
+{
+    "Adress": "Apfelhausenweg 10, 5000 Aarau",
+    "link": "https://www.homegate.ch/rent/3003112873",
+    "Name": "Aarau-Einstein",
+    "Cost": {
+        "Total": 2800,
+        "Expenses": 300,
+        "Rent": 2500
+    },
+    "Layout": "https://media2.homegate.ch/listings/hgonif/3003112873/document/6486799a292a2b2eb155e6aed9ea00fc.pdf",
+    "Size": 140,
+    "pictures": [
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/2e2a58bf6fe96f7a789bb1ac7712979a.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/06bca9bb098aff99801136d53fd4665e.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/46cee00b4d46c2cfd9977d999986f72f.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/56e5d9880bd1f44b173f0086e2357573.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/4921b3e2d16baae21d5ed99de89c3179.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/a643a6b17f20e042d0e39e745caf8ea1.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/be9276e2bc79504742f98fb629295157.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/c1ee6bbf4ddfecc2f858caec483d1e83.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/c9e8a6f8a1a8f1c5fa224de64fb26141.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/e29460e1f824891854b0f16e7bb7f931.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/hgonif/3003112873/image/f5c54a311ebad4249fa2da3c31c2b2bc.jpg"
+    ]
+}

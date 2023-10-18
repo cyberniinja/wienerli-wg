@@ -1,0 +1,25 @@
+{
+    "Adress": "Bibersteinstrasse 11, 5022 Rombach",
+    "link": "https://www.homegate.ch/rent/3003529351",
+    "Name": "Rombach Green",
+    "Cost": {
+        "Total": 3560,
+        "Expenses": 300,
+        "Rent": 3260
+    },
+    "Layout": "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/s178rim/3003529351/image/d19f7aec731cb121f76cb8dfd5dd24f3.jpg",
+    "Size": 123,
+    "pictures": [
+        "https://media2.homegate.ch/f_auto/t_web_dp_fullscreen/listings/s178rim/3003529351/image/2fe43ce9e161c82a9cc81bdfd6761f4b.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/1b318dab4d669987e3b47116585498f0.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/2fe43ce9e161c82a9cc81bdfd6761f4b.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/4e37f9631b54a26bcdaee154580a3e48.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/05a6c3c72a8f49fb10b3473ea5d7ce4d.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/9b95eb7007e7b854bd44f211f4d8a71b.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/9b95eb7007e7b854bd44f211f4d8a71b.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/3366bbc0f4cc5042b2749e769ff04ef1.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/c34dcb21ea4e3f93ec13d3ce2e289c37.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/d19f7aec731cb121f76cb8dfd5dd24f3.jpg",
+        "https://media2.homegate.ch/f_auto/t_web_dp_small/listings/s178rim/3003529351/image/f6df93d58e34b060e1ea2623d7f8b1ed.jpg"
+    ]
+}

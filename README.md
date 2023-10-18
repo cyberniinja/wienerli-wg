@@ -24,7 +24,7 @@ LATEST: January 2024
 
 ## Budget
 
-- max 1000 CHF for rent per person ( 3300 CHF total )
+- max 1000 CHF for rent per person ( 3000 CHF total )
 - max 200 CHF for utilities per person ( 600 CHF total )
 - max 100 CHF for internet per person ( 300 CHF total )
 
