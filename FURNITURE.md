@@ -24,6 +24,8 @@
 - Wok
 - Big Pan
 - Frying Pan
+- Cutting boards
+- bottle opener
 
 # Fridges
 
